@@ -1,0 +1,6 @@
+@Crewtech.Vehix.Platform_HostAddress = http://localhost:5096
+
+GET {{Crewtech.Vehix.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
