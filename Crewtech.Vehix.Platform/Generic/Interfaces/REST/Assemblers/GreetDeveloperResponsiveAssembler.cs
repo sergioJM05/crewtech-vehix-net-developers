@@ -6,7 +6,7 @@ namespace Crewtech.Vehix.Platform.Generic.Interfaces.REST.Assemblers;
 /// <summary>
 /// This class is responsible for converting a Developer entity to a GreetDeveloperResponse.
 /// </summary>
-public static class GreetDeveloperResponsiveAssembler
+public static class GreetDeveloperResponseAssembler
 {
     /// <summary>
     /// Converts a develope entit to a GreetDeveloperResponse
